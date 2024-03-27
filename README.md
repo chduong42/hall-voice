@@ -1,5 +1,5 @@
 # Porte42 - Hall Voice
-Bonjour la porte
+This repository allow me to custom my hall voice when I enter and exit the 42 building.
 
 ## Requirements
 - Buy Hall Voice Change on [intra shop](https://shop.intra.42.fr/)
